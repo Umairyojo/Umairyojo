@@ -76,7 +76,7 @@ Next-generation URL bookmark manager focused on speed, simplicity, and user expe
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/umair-ahmed-3676151a0/
 - 💻 GitHub: https://github.com/Umairyojo
 
 ---
